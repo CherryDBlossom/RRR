@@ -1,0 +1,44 @@
+.persegiborder{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+.imageborder{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    
+}
+
+.title{
+    border: 100px;
+    color: black;
+    position: relative;
+}
+
+.ss{
+    text-shadow: 1;
+    position: unset;
+    font-size: 35px;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+}
+
+.holdup{
+
+    background-color: rgb(163, 162, 162);
+    width: 150px;
+    height: 100px;
+    position: absolute;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+  }
